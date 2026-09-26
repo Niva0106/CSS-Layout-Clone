@@ -1,4 +1,4 @@
-# NIVA Music — Website Layout Clone ⭐
+# LYRICA Music — Website Layout Clone ⭐
 
 A modern music streaming homepage recreated from scratch using HTML and CSS as part of the **CSS Layout Clone: Flexbox, Grid & More | LF 2026** challenge by μLearn Foundation.
 
@@ -75,7 +75,7 @@ Hover effects and transitions have been added to:
 ## 📂 Project Structure
 
 ~~~
-niva-music-clone/
+CSS-Layout-Clone/
 │
 ├── assets/
 │   ├── albums/
@@ -90,7 +90,7 @@ niva-music-clone/
 
 The hero section contains the required attribution:
 
-> Website Layout Clone done by `<YOUR μID>`
+> Website Layout Clone done by `<nivedithan@mulearn>`
 
 ## 🚀 How to Run
 
@@ -110,12 +110,12 @@ The website is hosted online and can be accessed through the hosted website link
 
 ## 👤 Author
 
-**[Your Name]**
+**Niveditha N**
 
-μID: **[Your μID]**
+μID: **nivedithan@mulearn**
 
 ## 📄 Disclaimer
 
-This project was created for educational purposes as part of the μLearn Foundation LF 2026 Web Development challenge.
+This project was created for educational purposes as part of the μLearn Foundation Learning Fest 2.0 2026 Web Development challenge.
 
 The layout is inspired by a modern music streaming platform and is not an official representation of the original platform.
