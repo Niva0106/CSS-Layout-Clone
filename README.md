@@ -114,6 +114,10 @@ The website is hosted online and can be accessed through the hosted website link
 
 μID: **nivedithan@mulearn**
 
+## Status
+
+Deployed with GitHub Pages.
+
 ## 📄 Disclaimer
 
 This project was created for educational purposes as part of the μLearn Foundation Learning Fest 2.0 2026 Web Development challenge.
